@@ -1,0 +1,6 @@
+[submodule "hd44780_pca9555_avr"]
+	path = hd44780_pca9555_avr
+	url = /home/pimi/projects/hd44780_pca9555/hd44780_pca9555_avr
+[submodule "hd44780_pca9555_kicad"]
+	path = hd44780_pca9555_kicad
+	url = /home/pimi/projects/hd44780_pca9555/hd44780_pca9555_kicad
